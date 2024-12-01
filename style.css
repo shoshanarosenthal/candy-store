@@ -1,0 +1,41 @@
+
+        #home {
+          background-image: url('pictures/CANDY-CORN.jpg'); /* Replace 'your-image.jpg' with the path to your image */
+          background-size: cover; /* Ensures the image covers the entire screen */
+          background-repeat: no-repeat; /* Prevents the image from repeating */
+          background-position: center; /* Centers the image */
+          height: 100vh; /* Ensures the body covers the full height of the viewport */
+          margin: 0;
+        }
+        img {
+            width: 200px;
+            height: 200;
+            font-size: medium;
+            font-family: 'Times New Roman', Times, serif;
+        }
+/* #contact {
+    form
+  fieldset disabled
+    <legend>Disabled fieldset example</legend>
+    <div class="mb-3">
+      <label for="disabledTextInput" class="form-label">Disabled input</label>
+      <input type="text" id="disabledTextInput" class="form-control" placeholder="Disabled input">
+    </div>
+    <div class="mb-3">
+      <label for="disabledSelect" class="form-label">Disabled select menu</label>
+      <select id="disabledSelect" class="form-select">
+        <option>Disabled select</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="disabledFieldsetCheck" disabled>
+        <label class="form-check-label" for="disabledFieldsetCheck">
+          Can't check this
+        </label>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </fieldset>
+</form>
+} */
